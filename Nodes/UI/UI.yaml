@@ -1594,6 +1594,7 @@ Children:
       Value: 54.0
     - Class: Reference
       Target: ns=5;i=478
+      Direction: Forward
   - Name: BarraPulsanti
     Type: PanelLoader
     Children:

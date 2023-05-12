@@ -70092,6 +70092,7 @@ Children:
         Value: 50.0
       - Class: Reference
         Target: ns=5;i=573
+        Direction: Forward
   - Name: LeftMargin
     Type: BaseVariableType
     DataType: Size

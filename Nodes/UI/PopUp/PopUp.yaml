@@ -48,6 +48,7 @@ Children:
     Value: 100.0
   - Class: Reference
     Target: ns=5;i=519
+    Direction: Forward
   - Name: Rettangolo2
     Type: Rectangle
     Children:
@@ -1134,6 +1135,7 @@ Children:
         Value: 0.0
       - Class: Reference
         Target: ns=5;i=504
+        Direction: Forward
     - Name: LeftMargin
       Type: BaseVariableType
       DataType: Size
@@ -1260,6 +1262,7 @@ Children:
       Value: 25.0
   - Class: Reference
     Target: ns=5;i=519
+    Direction: Forward
 - Name: PP_SlideIn
   Id: g=407cf3b0dda9257292a43c18fff77788
   Supertype: Dialog
@@ -2001,6 +2004,7 @@ Children:
     Value: false
   - Class: Reference
     Target: ns=5;i=519
+    Direction: Forward
 - Name: PP_Info
   Id: g=6847cd9b884a345935592ea3a17da8c0
   Supertype: Dialog
@@ -5186,6 +5190,7 @@ Children:
     Value: 3
   - Class: Reference
     Target: ns=5;i=519
+    Direction: Forward
 - Name: PP_Lingua
   Id: g=fa38d658f681d32a0c20463c7ad83a62
   Supertype: Dialog
@@ -6900,6 +6905,7 @@ Children:
       Value: 0.0
   - Class: Reference
     Target: ns=5;i=519
+    Direction: Forward
 - Name: PP_Password
   Id: g=98dd14b2db5c6eeee4526cdd44020d2e
   Supertype: Dialog
