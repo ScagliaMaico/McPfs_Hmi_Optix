@@ -15,7 +15,7 @@ Children:
     Type: BaseVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 612.0
+    Value: 618.0
   - Name: Moltiplica
     Type: Rectangle
     Children:
@@ -11506,7 +11506,7 @@ Children:
     Type: BaseVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 612.0
+    Value: 618.0
   - Name: Azoto_Accumulatore
     Type: Rectangle
     Children:

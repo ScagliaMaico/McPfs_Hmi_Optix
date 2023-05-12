@@ -69893,7 +69893,7 @@ Children:
     Type: BaseVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 552.0
+    Value: 618.0
   - Name: Salva_stampi
     Type: Rectangle
     Children:
@@ -69906,7 +69906,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 540.0
+      Value: 606.0
     - Name: BorderThickness
       Type: BaseDataVariableType
       DataType: Size
@@ -70126,7 +70126,7 @@ Children:
     Type: BaseVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 612.0
+    Value: 618.0
   - Name: LeftMargin
     Type: BaseVariableType
     DataType: Size
@@ -76107,7 +76107,7 @@ Children:
     Type: BaseVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 612.0
+    Value: 618.0
   - Name: Diagnostica_idraulica
     Type: Rectangle
     Children:
@@ -76195,7 +76195,7 @@ Children:
     Type: BaseVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 612.0
+    Value: 618.0
   - Name: LeftMargin
     Type: BaseVariableType
     DataType: Size
@@ -81726,7 +81726,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 216.0
+      Value: 222.0
     - Name: BorderThickness
       Type: BaseDataVariableType
       DataType: Size
@@ -87930,7 +87930,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 216.0
+      Value: 222.0
     - Name: BorderThickness
       Type: BaseDataVariableType
       DataType: Size
@@ -89156,7 +89156,7 @@ Children:
     Type: BaseVariableType
     DataType: Size
     ModellingRule: Optional
-    Value: 612.0
+    Value: 618.0
   - Name: Anteriore_non_presente
     Type: Rectangle
     Children:
@@ -89265,7 +89265,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 600.0
+      Value: 606.0
     - Name: BorderThickness
       Type: BaseDataVariableType
       DataType: Size
@@ -95600,7 +95600,7 @@ Children:
       Type: BaseVariableType
       DataType: Size
       ModellingRule: Optional
-      Value: 600.0
+      Value: 606.0
     - Name: BorderThickness
       Type: BaseDataVariableType
       DataType: Size
