@@ -1,0 +1,28 @@
+Name: Ingressi configurabili
+Id: g=9f0880813ff257bbe290a554187e1f9c
+Type: FolderType
+Children:
+- Name: Stop pompa immediato
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Stop pompa fine ciclo
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Stop pressa immediato
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Stop pressa fine ciclo
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Stop pressa fine ciclo con contatore
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0
+- Name: Solo visualizzazione
+  Type: BaseDataVariableType
+  DataType: Int32
+  Value: 0

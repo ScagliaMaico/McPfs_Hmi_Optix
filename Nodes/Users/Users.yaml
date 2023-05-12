@@ -1,0 +1,92 @@
+Name: Users
+Type: FolderType
+Children:
+- Name: Italiano
+  Id: g=afd11f5aad245588fe97a9a0d7618b7a
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "it-IT"
+- Name: Inglese
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "en-US"
+- Name: Francese
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "fr-FR"
+- Name: Bulgaro
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "bg-BG"
+- Name: Ungherese
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "hu-HU"
+- Name: Svedese
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "sv-SE"
+- Name: Rumeno
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "ru-RU"
+- Name: Polacco
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "pl-PL"
+- Name: Portoghese
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "pt-BR"
+- Name: Sloveno
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "sl-SI"
+- Name: Russo
+  Type: UserType
+  Children:
+  - Name: Language
+    Type: BaseVariableType
+    DataType: LocaleId
+    ReferenceType: HasProperty
+    Value: "ru-RU"

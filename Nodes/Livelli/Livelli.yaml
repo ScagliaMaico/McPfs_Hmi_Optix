@@ -1,0 +1,45 @@
+Name: Livelli
+Type: FolderType
+Children:
+- Name: LivelliON
+  Id: g=1ae5cbb6fd720813ec3374bc8cfb520c
+  Type: BaseDataVariableType
+  DataType: Boolean
+  Value: false
+- Name: Livelli
+  Id: g=924567701746d31d139d1dc686ce1e04
+  Type: BaseObjectType
+  Children:
+  - Name: Variabile1
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Variabile2
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Variabile3
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Variabile4
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+- Name: NomeVariabile
+  Type: BaseDataVariableType
+  DataType: String
+  Value: ""
+- Name: ValoreLivello
+  Type: BaseDataVariableType
+  DataType: Int16
+  Value: 0
+  Children:
+  - Name: Variabile1
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0
+  - Name: Variabile2
+    Type: BaseDataVariableType
+    DataType: Int32
+    Value: 0

@@ -1,0 +1,153 @@
+Name: Converters
+Type: FolderType
+Children:
+- Name: Verde
+  Id: g=c4fa0fa1da4129c7d567a7d6bbf52e15
+  Supertype: ValueMapConverter
+  ReferenceType: HasComponent
+  Children:
+  - Name: Pairs
+    Type: BaseObjectType
+    Children:
+    - Name: Pair
+      Type: ValueMapPair
+      Children:
+      - Name: Key
+        Type: BaseDataVariableType
+        DataType: Boolean
+        Value: false
+      - Name: Value
+        Type: BaseDataVariableType
+        DataType: Color
+        Value: "#e3e3e3"
+    - Name: Pair1
+      Type: ValueMapPair
+      Children:
+      - Name: Key
+        Type: BaseDataVariableType
+        DataType: Boolean
+        Value: true
+      - Name: Value
+        Type: BaseDataVariableType
+        DataType: Color
+        Value: "#00d000"
+- Name: Rosso
+  Id: g=f759399d8e84f81a7486000ece909bc3
+  Supertype: ValueMapConverter
+  ReferenceType: HasComponent
+  Children:
+  - Name: Pairs
+    Type: BaseObjectType
+    Children:
+    - Name: Pair
+      Type: ValueMapPair
+      Children:
+      - Name: Key
+        Type: BaseDataVariableType
+        DataType: Boolean
+        Value: false
+      - Name: Value
+        Type: BaseDataVariableType
+        DataType: Color
+        Value: "#e3e3e3"
+    - Name: Pair1
+      Type: ValueMapPair
+      Children:
+      - Name: Key
+        Type: BaseDataVariableType
+        DataType: Boolean
+        Value: true
+      - Name: Value
+        Type: BaseDataVariableType
+        DataType: Color
+        Value: "#ff0000"
+- Name: Rosso_Verde
+  Id: g=6175393193f631095d04d3fa1b7aa9b7
+  Supertype: ValueMapConverter
+  ReferenceType: HasComponent
+  Children:
+  - Name: Pairs
+    Type: BaseObjectType
+    Children:
+    - Name: Pair
+      Type: ValueMapPair
+      Children:
+      - Name: Key
+        Type: BaseDataVariableType
+        DataType: Boolean
+        Value: false
+      - Name: Value
+        Type: BaseDataVariableType
+        DataType: Color
+        Value: "#ff0000"
+    - Name: Pair1
+      Type: ValueMapPair
+      Children:
+      - Name: Key
+        Type: BaseDataVariableType
+        DataType: Boolean
+        Value: true
+      - Name: Value
+        Type: BaseDataVariableType
+        DataType: Color
+        Value: "#00ff00"
+- Name: Verde_Rosso
+  Id: g=a99ef0ab6c10cc7142db1aebd60897db
+  Supertype: ValueMapConverter
+  ReferenceType: HasComponent
+  Children:
+  - Name: Pairs
+    Type: BaseObjectType
+    Children:
+    - Name: Pair
+      Type: ValueMapPair
+      Children:
+      - Name: Key
+        Type: BaseDataVariableType
+        DataType: Boolean
+        Value: true
+      - Name: Value
+        Type: BaseDataVariableType
+        DataType: Color
+        Value: "#ff0000"
+    - Name: Pair1
+      Type: ValueMapPair
+      Children:
+      - Name: Key
+        Type: BaseDataVariableType
+        DataType: Boolean
+        Value: false
+      - Name: Value
+        Type: BaseDataVariableType
+        DataType: Color
+        Value: "#00ff00"
+- Name: Giallo
+  Id: g=7a566b5edae3662e3dff2d90fc894792
+  Supertype: ValueMapConverter
+  ReferenceType: HasComponent
+  Children:
+  - Name: Pairs
+    Type: BaseObjectType
+    Children:
+    - Name: Pair
+      Type: ValueMapPair
+      Children:
+      - Name: Key
+        Type: BaseDataVariableType
+        DataType: Boolean
+        Value: false
+      - Name: Value
+        Type: BaseDataVariableType
+        DataType: Color
+        Value: "#e3e3e3"
+    - Name: Pair1
+      Type: ValueMapPair
+      Children:
+      - Name: Key
+        Type: BaseDataVariableType
+        DataType: Boolean
+        Value: true
+      - Name: Value
+        Type: BaseDataVariableType
+        DataType: Color
+        Value: "#ffff00"
