@@ -21673,6 +21673,299 @@ Children:
           Type: BaseDataVariableType
           DataType: String
           Value: "CPU_Pressa.Blocks.Password.DbPassword.Liv6"
+  - Name: Ingressi Uscite
+    Type: TagStructure
+    Children:
+    - Name: DbSlot
+      Type: TagStructure
+      Children:
+      - Name: InputIndex
+        Id: g=8995cf9170ded8a4e3fee5bd30943512
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.InputIndex"
+      - Name: OutputIndex
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.OutputIndex"
+      - Name: AnaloInputIndex
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.AnaloInputIndex"
+      - Name: AnalogOutIndex
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.AnalogOutIndex"
+      - Name: InputByte1
+        Id: g=ea6565a10d74a64396e004be40379eaa
+        Type: S7TiaProfinetTag
+        DataType: Boolean
+        ValueRank: OneDimension
+        ArrayDimensions: [8]
+        Value: [false,false,false,false,false,false,false,false]
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.InputByte1"
+        - Name: OriginalDataType
+          Type: BaseDataVariableType
+          DataType: NodeId
+          AccessLevel: Read
+          Value: {"Id":3}
+      - Name: InputByte2
+        Id: g=10a32ef39bda88712cb575abdf5bec0b
+        Type: S7TiaProfinetTag
+        DataType: Boolean
+        ValueRank: OneDimension
+        ArrayDimensions: [8]
+        Value: [false,false,false,false,false,false,false,false]
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.InputByte2"
+        - Name: OriginalDataType
+          Type: BaseDataVariableType
+          DataType: NodeId
+          AccessLevel: Read
+          Value: {"Id":3}
+      - Name: OutputByte1
+        Type: S7TiaProfinetTag
+        DataType: Boolean
+        ValueRank: OneDimension
+        ArrayDimensions: [8]
+        Value: [false,false,false,false,false,false,false,false]
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.OutputByte1"
+        - Name: OriginalDataType
+          Type: BaseDataVariableType
+          DataType: NodeId
+          AccessLevel: Read
+          Value: {"Id":3}
+      - Name: OutputByte2
+        Type: S7TiaProfinetTag
+        DataType: Boolean
+        ValueRank: OneDimension
+        ArrayDimensions: [8]
+        Value: [false,false,false,false,false,false,false,false]
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.OutputByte2"
+        - Name: OriginalDataType
+          Type: BaseDataVariableType
+          DataType: NodeId
+          AccessLevel: Read
+          Value: {"Id":3}
+      - Name: AnalogInput1
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.AnalogInput1"
+      - Name: AnalogInput2
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.AnalogInput2"
+      - Name: AnalogInput3
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.AnalogInput3"
+      - Name: AnalogInput4
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.AnalogInput4"
+      - Name: AnalogOut1
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.AnalogOut1"
+      - Name: AnalogOut2
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.AnalogOut2"
+      - Name: AnalogOut3
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.AnalogOut3"
+      - Name: AnalogOut4
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.AnalogOut4"
+      - Name: ForceIndex
+        Type: S7TiaProfinetTag
+        DataType: Int16
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.ForceIndex"
+      - Name: ForceByte1
+        Type: S7TiaProfinetTag
+        DataType: Byte
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.ForceByte1"
+      - Name: ForceByte2
+        Type: S7TiaProfinetTag
+        DataType: Byte
+        Value: 0
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.ForceByte2"
+      - Name: ErroreQuadro
+        Type: S7TiaProfinetTag
+        DataType: Boolean
+        ValueRank: OneDimension
+        ArrayDimensions: [129]
+        Value: [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.ErroreQuadro"
+        - Name: StartArrayIndex
+          Type: BaseDataVariableType
+          DataType: UInt32
+          ValueRank: OneDimension
+          ArrayDimensions: [0]
+          Value: [0]
+      - Name: ErroreBasamento
+        Type: S7TiaProfinetTag
+        DataType: Boolean
+        ValueRank: OneDimension
+        ArrayDimensions: [129]
+        Value: [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.ErroreBasamento"
+        - Name: StartArrayIndex
+          Type: BaseDataVariableType
+          DataType: UInt32
+          ValueRank: OneDimension
+          ArrayDimensions: [0]
+          Value: [0]
+      - Name: ErrorePianoFisso
+        Type: S7TiaProfinetTag
+        DataType: Boolean
+        ValueRank: OneDimension
+        ArrayDimensions: [129]
+        Value: [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.ErrorePianoFisso"
+        - Name: StartArrayIndex
+          Type: BaseDataVariableType
+          DataType: UInt32
+          ValueRank: OneDimension
+          ArrayDimensions: [0]
+          Value: [0]
+      - Name: ErrorePianoMobile
+        Type: S7TiaProfinetTag
+        DataType: Boolean
+        ValueRank: OneDimension
+        ArrayDimensions: [129]
+        Value: [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.ErrorePianoMobile"
+        - Name: StartArrayIndex
+          Type: BaseDataVariableType
+          DataType: UInt32
+          ValueRank: OneDimension
+          ArrayDimensions: [0]
+          Value: [0]
+      - Name: ErroreIniezione
+        Type: S7TiaProfinetTag
+        DataType: Boolean
+        ValueRank: OneDimension
+        ArrayDimensions: [129]
+        Value: [false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false,false]
+        Children:
+        - Name: SymbolName
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "CPU_Pressa.Blocks.Ingressi Uscite.DbSlot.ErroreIniezione"
+        - Name: StartArrayIndex
+          Type: BaseDataVariableType
+          DataType: UInt32
+          ValueRank: OneDimension
+          ArrayDimensions: [0]
+          Value: [0]
   - Name: Produzione
     Type: TagStructure
     Children:
